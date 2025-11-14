@@ -1,23 +1,84 @@
-<h1 align="center">Hi 👋, I'm Mugilan S</h1>
-<h3 align="center">Software Engineer. I love building things and helping people.</h3>
+# Hey, I'm Mugilan S 👋
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.mugilans.in/)
+**Software Product Engineer** building AI agents and scalable systems
 
-- 📫 How to reach me **mugilan.s951@gmail.com**
+Currently at **Kalvium Labs** | Building production AI solutions 
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Cn1jzNMgq0xlaTRAmBz8i-1OflaLRwhnhWMfH5d7cVo/edit)
+---
 
+## What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mugilankani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mugilankani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mugilansakthivel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mugilansakthivel" height="30" width="40" /></a>
-<a href="https://medium.com/@mugilankani951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugilankani951" height="30" width="40" /></a>
-</p>
+I build **AI-powered applications** that solve real problems:
+- Developing agentic systems using LangChain, LangGraph, and Genkit
+- Creating scalable backend architectures with Node.js and Express
+- Deploying containerized apps on Google Cloud and AWS
+- Optimizing LLM costs through prompt engineering and smart caching
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Core Focus:** AI Agents • Full-Stack Development • Cloud Architecture • System Design
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugilankani&show_icons=true&locale=en&layout=compact" alt="mugilankani" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugilankani&" alt="mugilankani" /></p>
+## Tech Stack
+
+**Languages:** JavaScript, Python, C++, Java, SQL  
+**AI/ML:** LangChain, LangGraph, Genkit, Gemini API, Transformers.js  
+**Backend:** Node.js, Express.js, REST APIs, WebSockets  
+**Frontend:** React, Next.js, Vite, Tailwind CSS  
+**Databases:** PostgreSQL, MongoDB, Supabase, Redis  
+**Cloud & DevOps:** Google Cloud Run, AWS, Docker, GitHub Actions  
+**Tools:** Prisma, Mongoose, Clerk, Cloudinary, Remotion
+
+---
+
+## Featured Projects
+
+### [Scout AI](https://github.com/mugilankani/ScoutAI) - AI Hiring Agent
+Automated LinkedIn candidate sourcing, screening, and outreach system
+- **Tech:** Genkit, PostgreSQL, Prisma, React, Gemini LLM
+- **Impact:** Automated entire hiring pipeline from scraping to outreach
+- **Features:** Duplicate detection, background research, candidate scoring
+
+### [Screen](https://github.com/mugilankani/scren) - Call Auditing Agent
+AI-powered sales call analyzer that provides improvement feedback in <10 minutes
+- **Tech:** AWS, Node.js, Next.js, PostgreSQL, Supabase
+- **Impact:** Reduced call review time from hours to minutes
+- **Features:** Automated transcription, sentiment analysis, actionable insights
+
+### [Q Space](https://github.com/mugilankani/q-space-V2) - Personalized Learning Platform
+Adaptive learning system that analyzes content and provides individualized feedback
+- **Tech:** LangChain, PostgreSQL, React, Prisma, Gemini LLM
+- **Features:** Content analysis, question generation, performance tracking
+
+### [Data Motion AI](https://github.com/mugilankani/DataMotion-AI) - Infographic Video Generator
+Converts data and text into engaging infographic videos automatically
+- **Tech:** LangChain, Docker, AWS, Remotion, PostgreSQL
+- **Features:** AI-powered script generation, automated video rendering
+
+---
+
+## Professional Experience
+
+**Software Product Engineer @ Kalvium Labs** (Apr 2025 - Present)
+- Built 10+ production AI agents for client projects
+- Reduced LLM costs through optimization (30%+ savings)
+- Led 3 teams and managed 5+ concurrent projects
+- Generated 80+ qualified leads for the company
+
+---
+
+## Let's Connect
+
+- **Email:** mugilan.s951@gmail.com
+- **LinkedIn:** [linkedin.com/in/mugilansakthivel](https://linkedin.com/in/mugilansakthivel)
+- **Portfolio:** [mugilansakthivel.dev](https://portfolio/mugilansakthivel)
+- **Twitter:** @mugilansakthivel
+
+---
+
+## Achievements
+
+- **Generative AI Learning Path** - Completed hands-on program
+- **Campus Coding Challenge Winner** - Solved 3/4 problems
+- **Mentored 100+ students** in career guidance
+
+---
